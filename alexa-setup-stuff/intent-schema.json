@@ -1,0 +1,12 @@
+{
+  "intents": [
+    {
+      "intent": "talkBabel",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.RepeatIntent",
+      "slots": []
+    }
+  ]
+}
